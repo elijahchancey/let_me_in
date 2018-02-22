@@ -1,0 +1,7 @@
+# Requirements for python scripts.
+# Install all requirements: pip3 install -r requirements.txt
+
+boto3>=1.5.33
+argparse
+datetime
+ipgetter
