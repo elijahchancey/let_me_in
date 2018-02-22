@@ -1,5 +1,5 @@
-## Let_me_in 
-Let_me_in is a python utility that will add an ingress rule to a vpc security group using your IP address. Here's how to use it:
+## let_me_in 
+let_me_in is a python utility that will add an ingress rule to a vpc security group using your IP address. Here's how to use it:
 
 ```
 $ ./let_me_in.py bastion 22
